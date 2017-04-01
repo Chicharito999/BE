@@ -66,3 +66,4 @@ end
 当u0=2 v0=2 u1=-2 v0=2时：<br>
 ![](https://github.com/Chicharito999/ImageCache/raw/master/image/图片23.png)<br>
 ![](https://github.com/Chicharito999/ImageCache/raw/master/image/图片21.png)
+ 
